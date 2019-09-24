@@ -1,12 +1,12 @@
-# css
+# # css選擇器
 
-css(Cascading Style Sheets), HTML套用 css分為三種(標籤、類別、id).
+HTML套用 css的方法基礎分為三種(元素、類別、id).
 
-## 標籤
+## 元素
 ```html
 <head>
   <style>
-    img { <!-- 只要是使用 img標籤元素都會受影響 -->
+    img { <!-- 只要是使用 img元素都會受影響 -->
         border-radius: 10px;
     }
   </style>
@@ -20,7 +20,7 @@ css(Cascading Style Sheets), HTML套用 css分為三種(標籤、類別、id).
 ```html
 <head>
   <style>
-    .place { <!-- 只要是套用此類別的標籤元素都會受影響 -->
+    .place { <!-- 只要是套用此類別的元素都會受影響 -->
         background: red;
     }
   </style>
