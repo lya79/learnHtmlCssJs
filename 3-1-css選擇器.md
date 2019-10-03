@@ -49,11 +49,11 @@ HTML套用 css的方法基礎分為三種(元素、類別、id).
 ```
 
 ## 參考
-- [CSS 選擇器
+1. [CSS 選擇器
 ](https://developer.mozilla.org/zh-TW/docs/Glossary/CSS_Selector)
-- [CSS 选择器参考手册](https://www.w3school.com.cn/cssref/css_selectors.asp)
-- [CSS选择器笔记](http://www.ruanyifeng.com/blog/2009/03/css_selectors.html)
-- [CSS 選擇器、選擇器的優先順序和權重
+2. [CSS 选择器参考手册](https://www.w3school.com.cn/cssref/css_selectors.asp)
+3. [CSS选择器笔记](http://www.ruanyifeng.com/blog/2009/03/css_selectors.html)
+4. [CSS 選擇器、選擇器的優先順序和權重
 ](https://codertw.com/%E5%89%8D%E7%AB%AF%E9%96%8B%E7%99%BC/179545/)
 
 ## 心得
