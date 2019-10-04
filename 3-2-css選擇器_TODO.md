@@ -15,12 +15,12 @@
 2. 通用同層選擇器 A ~ B
 3. 直屬選擇器 A > B
 4. 後代選擇器 A B
-#### 虛擬元素
+#### 虛擬元素 
 #### 虛擬類別
 
 ---
 
-## `類型選擇器`
+## `類型選擇器 elementname`
 指定元素設定 css.
     
 使用方法
@@ -34,7 +34,7 @@ span { /* 全部的 a元素都會改變樣式 */
     background-color:red;
 }
 ```
-## `Class選擇器`
+## `Class選擇器 .classname`
 類別選擇器可套用多種類別.
 
 使用方法
@@ -59,19 +59,101 @@ li.spacious.elegant {
   margin: 2em;
 
 ```
-## `ID選擇器`
+## `ID選擇器 #idname`
 
-TODO
+使用方法
+```html
+<div id="identified">HELO</div>
+```
 
-## `通用選擇器`
-## `屬性選擇器`
-## `狀態選擇器`
+CSS範例
+```css
+#identified {
+  background-color: skyblue;
+}
+```
+
+## `通用選擇器 * ns|* *|*`
+
+使用方法
+```html
+```
+
+CSS範例
+```css
+```
+
+## `屬性選擇器 [attr=value]`
+使用方法
+```html
+```
+
+CSS範例
+```css
+```
+
+## `狀態選擇器 a:active, a:visited`
+使用方法
+```html
+```
+
+CSS範例
+```css
+```
+
 ## `鄰接同層選擇器 A + B`
+使用方法
+```html
+```
+
+CSS範例
+```css
+```
+
 ## `通用同層選擇器 A ~ B`
+使用方法
+```html
+```
+
+CSS範例
+```css
+```
+
 ## `直屬選擇器 A > B`
+使用方法
+```html
+```
+
+CSS範例
+```css
+```
+
 ## `後代選擇器 A B`
+使用方法
+```html
+```
+
+CSS範例
+```css
+```
+
 ## `虛擬元素`
+使用方法
+```html
+```
+
+CSS範例
+```css
+```
+
 ## `虛擬類別`
+使用方法
+```html
+```
+
+CSS範例
+```css
+```
 
 ---
 
